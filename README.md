@@ -8,6 +8,6 @@ Hands-on Windows support exercises in a simulated company network, documented as
 
 | Lab | Focus | Report |
 | --- | --- | --- |
-| 001 — New employee workstation deployment | Domain joining, user creation, security groups, sign-in verification | [View Lab 001](labs/01-employee-onboarding/README.md) |
+| 001 — New employee workstation deployment | Domain joining, user creation, security groups, sign-in verification | [View Lab 001](labs/01-employee-onboarding/Lab-001-Employee-Onboarding.pdf) |
 
 *Personal training environment. All employee names and scenarios are fictional.*
